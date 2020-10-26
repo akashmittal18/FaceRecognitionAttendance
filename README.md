@@ -47,7 +47,6 @@ https://medium.com/dataseries/face-recognition-with-opencv-haar-cascade-a289b6ff
 
 #### This is how my Front-End UI looks
 <img src="https://github.com/akashmittal18/FaceRecognitionAttendance/blob/master/FaceAttendace.png">
-<<<<<<< HEAD
 
 <p align="center">
 <a href="https://twitter.com/akash_mittal18" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="akash_mittal18" height="30" width="30" /></a>
