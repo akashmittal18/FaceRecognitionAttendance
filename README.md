@@ -56,5 +56,4 @@ https://medium.com/dataseries/face-recognition-with-opencv-haar-cascade-a289b6ff
 <a href="mailto:akash.mittal898@gmail.com" target="blank"><img align="center"  src="https://img.icons8.com/color/48/000000/gmail.png" alt="akash.mittal898" height="30" width="30" /></a>
 <a href="https://medium.com/@akashmittal18" target="blank"><img align="center" src="https://img.icons8.com/color/110/000000/medium-monogram.png" alt="akashmittal18" height="30" width="30" /></a>  
 </p>
-=======
->>>>>>> f677537bfdb04d2ecdd82f35c8682c32a65df00c
+
